@@ -11,4 +11,4 @@ Step 3: Select Activate Windows if you want to activate Windows, or Activate Off
 
 Step 4: Wait until the process is complete.
 
-Step 5: Restart your PC / Laptop after activating it, and your Windows will automatically activate.
+Step 5: Restart your PC / Laptop after activating, and your Windows will automatically activate.
