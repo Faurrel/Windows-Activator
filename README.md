@@ -1,7 +1,7 @@
 # Windows-Activator
 
 Disclaimer:
-This method is only for those of you who use Windows personally.  And for companies or companies, please buy the original.
+This method is only for those of you who use Windows personally.  And using form company, please buy the original.
 
 Step 1: Turn off your antivirus, because this activator is often considered a virus by some antiviruses.  In fact, this is just a harmless false alarm.
 
